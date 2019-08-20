@@ -5,3 +5,4 @@ deployment:
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
      - /bin/cp about.html $DEPLOYPATH
+ - /bin/cp wsdabout.html $DEPLOYPATH
